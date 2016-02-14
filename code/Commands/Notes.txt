@@ -1,0 +1,49 @@
+169.254.148.205
+
+//Mobile 
+192.168.43.206
+
+//router 
+192.168.1.105
+
+//update
+
+sudo rpi-update
+
+// Access to pendrive
+sudo chmod 777 media/PENDRIVENAME
+
+
+Mac address of raspberry pi 
+E8:4E:06:20:2B:E4
+
+///////////////////////////////
+copy in linux
+
+cp -a source/. desti 
+
+source 
+
+/media/PENDRIVE/CollegeProject/WebIOPi-0.7.1/. 
+dest 
+/home/pi/webIOpi/
+
+
+change the router 
+sudo nano /etc/network/interfaces
+
+now restart the network system 
+
+sudo service networking reload
+
+/////////////////////
+remove folders
+
+sudo rm -rf foldername
+
+////////////////
+
+WebIOPi
+ sudo apt-get install gcc
+
+ ////////////
