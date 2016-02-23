@@ -193,15 +193,15 @@ while True:
         
     if x == 8:
         
-        Forward()
+        ForwardSlow()
     
     if x == 6:
         
-        Right()
+        RightSlow()
     
     if x == 4:
         
-        Left()
+        LeftSlow()
             
     if x == 2:
         
