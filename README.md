@@ -11,7 +11,7 @@ It contains two folders
 	Language - Python . 
 	Editor - Sublime text . 
 
-2) PPTandReports
+2) PPTandReports:
 	Contains reports of 7th as well as 8th sem . 
 	Contains PPT of project . 
 	Contains Synopsis of project . 
